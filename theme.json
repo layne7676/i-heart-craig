@@ -35,7 +35,7 @@
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#111111",
-            "#FF9900"
+            "#cc5200"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#FF9900",
@@ -279,7 +279,7 @@
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
             "#3a3a3a",
-            "#FF9900"
+            "#cc5200"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#2b2b2b",
@@ -310,8 +310,8 @@
             "#cc7a00"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#ffaa22",
-            "#aa6600"
+            "#cc5200",
+            "#cc5200"
         ],
         "REDESIGN_BUTTON_PRIMARY_TEXT": [
             "#111111",
@@ -346,12 +346,12 @@
             "#FF9900"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#FF9900",
+            "#cc5200",
             "#d47b00"
         ],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
             "#2b2b2b",
-            "#FF9900"
+            "#cc5200"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
             "#1b1b1b",
@@ -366,12 +366,12 @@
             "#FF9900"
         ],
         "MOBILE_ACTIONSHEET_GRADIENT_BACKGROUND_DEFAULT": [
-            "#111111",
+            "#000000",
             "#FF9900"
         ],
         "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
-            "#FF9900",
-            "#FF9900"
+            "#cc5200",
+            "#cc5200"
         ],
         "MOBILE_SEGMENTED_CONTROL_BACKGROUND": [
             "#111111",
