@@ -216,10 +216,6 @@
         "CHAT_MENTIONS_BACKGROUND_DARK": "#ff8500",
         "CHAT_MENTIONS_FOREGROUND_DARK": "#ff8500"
     },
-    "background": {
-        "blur": 0,
-        "url": ""
-    },
     "plus": {
         "version": "0",
         "iconpack": "solarbroken",
