@@ -58,16 +58,16 @@
             "#ede5dc"
         ],
         "BACKGROUND_PRIMARY": [
-            "#192428D9",
-            "#faf3eeD9"
+            "#FF000000",
+            "#FF000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#141e21E6",
-            "#f0e8e0E6"
+            "#FFFF8500",
+            "#FFFF8500"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#111b1e",
-            "#e8dfd5"
+            "#ff8500",
+            "#ff8500"
         ],
         "BACKGROUND_TERTIARY": [
             "#141e21E6",
@@ -110,28 +110,28 @@
             "#5a3020"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#1e2b2f",
-            "#e8dfd5"
+            "#000000",
+            "#000000"
         ],
         "CHAT_BACKGROUND": [
-            "#192428D9",
-            "#faf3eeD9"
+            "#000000",
+            "#000000"
         ],
         "EMBED_BACKGROUND": [
-            "#141e21",
-            "#f0e8e0"
+            "#ff8500",
+            "#ff8500"
         ],
         "FORUM_POST_TAG_BACKGROUND": [
-            "#243336",
-            "#e0d8d0"
+            "#ff8500",
+            "#ff8500"
         ],
         "HEADER_PRIMARY": [
-            "#ffd0b8",
-            "#2a1808"
+            "#ff8500",
+            "#ff8500"
         ],
         "HEADER_SECONDARY": [
-            "#e8b898",
-            "#3a2010"
+            "#ff8500",
+            "#ff8500"
         ],
         "INPUT_BACKGROUND": [
             "#111c1f",
@@ -182,60 +182,56 @@
             "#d45f30"
         ],
         "TEXT_NORMAL": [
-            "#ffd0b8",
-            "#2a1808"
+            "#ff8500",
+            "#ff8500"
         ],
         "TEXT_MUTED": [
-            "#7a9098",
-            "#6a5040"
+            "#0058ff",
+            "#0058ff"
         ],
         "TEXT_PRIMARY": [
-            "#ffd0b8",
-            "#2a1808"
+            "#ff8500",
+            "#ff8500"
         ],
         "TEXT_WARNING": [
             "#e09858",
             "#c07838"
         ],
         "TEXT_POSITIVE": [
-            "#70b898",
-            "#30886a"
+            "#ff8500",
+            "#ff8500"
         ],
         "THREAD_CHANNEL_SPINE": [
             "#FF8500",
-            "#d45f30"
+            "#ff8500"
         ],
         "BG_BASE_PRIMARY": [
-            "#192428D9",
-            "#faf3eeD9"
+            "#ff000000",
+            "#ff000000"
         ],
         "BG_BASE_SECONDARY": [
-            "#141e21E6",
-            "#f0e8e0E6"
+            "#ffff8500",
+            "#ffff8500"
         ],
         "BG_BASE_TERTIARY": [
-            "#111c1f",
-            "#e8dfd5"
+            "#000000",
+            "#000000"
         ],
         "BG_MOD_FAINT": [
-            "#1e2b2f",
-            "#ede5dc"
+            "#000000",
+            "#000000"
         ],
         "BG_MOD_STRONG": [
-            "#141e21",
-            "#e0d8d0"
+            "#000000",
+            "#000000"
         ],
         "BG_MOD_SUBTLE": [
             "#FF850010",
             "#FF850010"
         ],
         "BG_SURFACE_RAISED": [
-            "#141e21",
-            "#f0e8e0"
-        ],
-        "BG_SURFACE_OVERLAY": [
-            "#192428",
-            "#faf3ee"
+            "#ff8500",
+            "#ff8500"
         ],
         "BG_BACKDROP": [
             "#0a1215aa",
@@ -243,7 +239,7 @@
         ],
         "BG_BRAND": [
             "#FF8500",
-            "#d45f30"
+            "#ff8500"
         ],
         "PANEL_BG": [
             "#192428E6",
