@@ -1,4 +1,4 @@
-{
+    {
     "name": "OrangeOLED",
     "description": "Too many Orange!",
     "authors": [
@@ -7,9 +7,7 @@
             "id": "715443625580036128"
         }
     ],
-  "version": "1.0.0",
-  "theme": {
-    "colors": {
+    "semanticColors": {
       "background-primary": "#1b1b1b",
       "background-secondary": "#111111",
       "background-secondary-alt": "#0b0b0b",
