@@ -226,6 +226,8 @@
 "mentionLineColor": "#ff8500",
 "customOverlays": false,
 "icons": {
+"ic_clyde": "#ff8500",
+"ic_clyde_24px": "#ff8500",
 "ic_radio_circle_checked": "#ff8500",
 "ic_radio_circle_checked__overlay": "#000000",
 "ic_radio_square_24px": "#ff8500",
