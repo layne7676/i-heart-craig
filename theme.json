@@ -217,7 +217,7 @@
 "CHAT_MENTIONS_FOREGROUND_DARK": "#ff8500"
 },
     "background": {
-        "blur": 0,
+        "blur": 1,
         "url": "https://github.com/layne7676/i-heart-craig/blob/main/Picsart_26-10-03_10-42-39-373.jpg"
     },
 "plus": {
