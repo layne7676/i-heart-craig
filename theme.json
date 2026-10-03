@@ -1,6 +1,6 @@
 {
-    "name": "The Hub Theme (Flat)",
-    "description": "A completely flat dark theme with solid orange highlights.",
+    "name": "The Hub Theme (Pure Orange)",
+    "description": "A completely flat theme where all text, UI controls, and icons use solid orange.",
     "version": "1.0",
     "authors": [
         {
@@ -26,52 +26,52 @@
             "#FF9900"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ffffff",
+            "#FF9900",
             "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#1f1f1f",
-            "#e0e0e0"
+            "#FF9900"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#111111",
-            "#cccccc"
+            "#FF9900"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#ffffff",
+            "#FF9900",
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#2b2b2b",
-            "#d8d8d8"
+            "#FF9900"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#1b1b1b",
-            "#fafafa"
+            "#FF9900"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#1f1f1f",
-            "#edeede"
+            "#FF9900"
         ],
         "BACKGROUND_PRIMARY": [
             "#1b1b1b",
-            "#fafafa"
+            "#FF9900"
         ],
         "BACKGROUND_SECONDARY": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#0b0b0b",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "BACKGROUND_TERTIARY": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "BADGE_BRAND_BG": [
             "#FF9900",
@@ -79,7 +79,7 @@
         ],
         "BADGE_BRAND_TEXT": [
             "#111111",
-            "#ffffff"
+            "#FF9900"
         ],
         "BORDER_FAINT": [
             "#FF9900",
@@ -87,19 +87,19 @@
         ],
         "CARD_PRIMARY_BG": [
             "#1b1b1b",
-            "#fafafa"
+            "#FF9900"
         ],
         "CARD_PRIMARY_PRESSED_BG": [
             "#1f1f1f",
-            "#edeede"
+            "#FF9900"
         ],
         "CARD_SECONDARY_BG": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "CARD_BACKGROUND_DEFAULT": [
             "#1f1f1f",
-            "#edeede"
+            "#FF9900"
         ],
         "CHANNEL_ICON": [
             "#ffaa22",
@@ -111,35 +111,35 @@
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#1f1f1f",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "CHAT_BACKGROUND": [
             "#1b1b1b",
-            "#fafafa"
+            "#FF9900"
         ],
         "EMBED_BACKGROUND": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "FORUM_POST_TAG_BACKGROUND": [
             "#2b2b2b",
-            "#e0e0e0"
+            "#FF9900"
         ],
         "HEADER_PRIMARY": [
-            "#eeeeee",
+            "#FF9900",
             "#111111"
         ],
         "HEADER_SECONDARY": [
-            "#888888",
+            "#FF9900",
             "#2b2b2b"
         ],
         "INPUT_BACKGROUND": [
             "#111111",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "INPUT_BACKGROUND_DEFAULT": [
             "#111111",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "INPUT_BORDER_ACTIVE": [
             "#FF9900",
@@ -159,7 +159,7 @@
         ],
         "INTERACTIVE_MUTED": [
             "#3a3a3a",
-            "#c8c8c8"
+            "#FF9900"
         ],
         "INTERACTIVE_NORMAL": [
             "#e68a00",
@@ -167,7 +167,7 @@
         ],
         "MENTION_BACKGROUND": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "MENTION_FOREGROUND": [
             "#FF9900",
@@ -182,15 +182,15 @@
             "#d47b00"
         ],
         "TEXT_NORMAL": [
-            "#eeeeee",
+            "#FF9900",
             "#111111"
         ],
         "TEXT_MUTED": [
-            "#888888",
+            "#FF9900",
             "#555555"
         ],
         "TEXT_PRIMARY": [
-            "#eeeeee",
+            "#FF9900",
             "#111111"
         ],
         "TEXT_WARNING": [
@@ -207,23 +207,23 @@
         ],
         "BG_BASE_PRIMARY": [
             "#1b1b1b",
-            "#fafafa"
+            "#FF9900"
         ],
         "BG_BASE_SECONDARY": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "BG_BASE_TERTIARY": [
             "#111111",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "BG_MOD_FAINT": [
             "#1f1f1f",
-            "#edeede"
+            "#FF9900"
         ],
         "BG_MOD_STRONG": [
             "#111111",
-            "#e0e0e0"
+            "#FF9900"
         ],
         "BG_MOD_SUBTLE": [
             "#FF9900",
@@ -231,11 +231,11 @@
         ],
         "BG_SURFACE_RAISED": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "BG_SURFACE_OVERLAY": [
             "#1b1b1b",
-            "#fafafa"
+            "#FF9900"
         ],
         "BG_BACKDROP": [
             "#000000",
@@ -247,23 +247,23 @@
         ],
         "PANEL_BG": [
             "#1b1b1b",
-            "#fafafa"
+            "#FF9900"
         ],
         "BACKGROUND_SURFACE_HIGH": [
             "#1b1b1b",
-            "#fafafa"
+            "#FF9900"
         ],
         "TAB_BAR_BACKGROUND": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "TYPING_INDICATOR_BG": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "ALERT_BG": [
             "#1f1f1f",
-            "#edeede"
+            "#FF9900"
         ],
         "CONTEXT_MENU_BACKDROP_BACKGROUND": [
             "#000000",
@@ -271,34 +271,34 @@
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#1f1f1f",
-            "#edeede"
+            "#FF9900"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#1f1f1f",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
             "#3a3a3a",
-            "#d8d8d8"
+            "#FF9900"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#2b2b2b",
-            "#d8d8d8"
+            "#FF9900"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "REDESIGN_BUTTON_SECONDARY_OVERLAY_BACKGROUND": [
             "#1f1f1f",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "REDESIGN_BUTTON_SECONDARY_OVERLAY_PRESSED_BACKGROUND": [
             "#3a3a3a",
-            "#d8d8d8"
+            "#FF9900"
         ],
         "REDESIGN_BUTTON_SECONDARY_OVERLAY_TEXT": [
-            "#eeeeee",
+            "#FF9900",
             "#111111"
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
@@ -315,26 +315,26 @@
         ],
         "REDESIGN_BUTTON_PRIMARY_TEXT": [
             "#111111",
-            "#ffffff"
+            "#FF9900"
         ],
         "REDESIGN_BUTTON_DESTRUCTIVE_BACKGROUND": [
             "#1f1f1f",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "REDESIGN_BUTTON_DESTRUCTIVE_TEXT": [
-            "#eeeeee",
+            "#FF9900",
             "#111111"
         ],
         "REDESIGN_BUTTON_ACTIVE_TEXT": [
-            "#eeeeee",
+            "#FF9900",
             "#111111"
         ],
         "REDESIGN_BUTTON_DANGER_BACKGROUND": [
             "#1f1f1f",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#888888",
+            "#FF9900",
             "#555555"
         ],
         "REDESIGN_CHANNEL_NAME_TEXT": [
@@ -343,7 +343,7 @@
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#1f1f1f",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#FF9900",
@@ -351,23 +351,23 @@
         ],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
             "#2b2b2b",
-            "#d8d8d8"
+            "#FF9900"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
             "#1b1b1b",
-            "#fafafa"
+            "#FF9900"
         ],
         "STANDALONE_CHANNEL_HEADER_BORDER": [
             "#1b1b1b",
-            "#fafafa"
+            "#FF9900"
         ],
         "MOBILE_ACTIONSHEET_BACKGROUND": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "MOBILE_ACTIONSHEET_GRADIENT_BACKGROUND_DEFAULT": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
             "#FF9900",
@@ -375,14 +375,14 @@
         ],
         "MOBILE_SEGMENTED_CONTROL_BACKGROUND": [
             "#111111",
-            "#f0f0f0"
+            "#FF9900"
         ],
         "MOBILE_TEXT_HEADING_PRIMARY": [
-            "#eeeeee",
+            "#FF9900",
             "#111111"
         ],
         "NAVIGATOR_HEADER_TINT": [
-            "#eeeeee",
+            "#FF9900",
             "#111111"
         ],
         "LOGO_PRIMARY": [
@@ -391,7 +391,7 @@
         ],
         "CONTROL_CRITICAL_PRIMARY_BACKGROUND_ACTIVE": [
             "#3a3a3a",
-            "#c8c8c8"
+            "#FF9900"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
             "#FF9900",
@@ -403,7 +403,7 @@
         ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
             "#1f1f1f",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
             "#111111",
@@ -415,15 +415,15 @@
         ],
         "CONTROL_SECONDARY_BORDER_ACTIVE": [
             "#2b2b2b",
-            "#d8d8d8"
+            "#FF9900"
         ],
         "DIVIDER_STRONG": [
             "#111111",
-            "#e8e8e8"
+            "#FF9900"
         ],
         "POLLS_VICTOR_FILL": [
             "#FF9900",
-        "#FF9900"
+"#FF9900"
 ],
 "POLLS_VOTED_FILL": [
 "#FF9900",
@@ -431,7 +431,7 @@
 ],
 "SPOILER_HIDDEN_BACKGROUND": [
 "#3a3a3a",
-"#d0d0d0"
+"#FF9900"
 ],
 "SPOILER_REVEALED_BACKGROUND": [
 "#111111",
@@ -439,14 +439,14 @@
 ],
 "STATUS_OFFLINE": [
 "#3a3a3a",
-"#c8c8c8"
+"#FF9900"
 ],
 "STATUS_DANGER": [
-"#eeeeee",
+"#FF9900",
 "#111111"
 ],
 "STATUS_WARNING": [
-"#eeeeee",
+"#FF9900",
 "#111111"
 ],
 "STATUS_DANGER_TEXT": [
@@ -498,14 +498,14 @@
 ]
 },
 "rawColors": {
-"PRIMARY_100": "#eeeeee",
-"PRIMARY_200": "#dddddd",
-"PRIMARY_300": "#cccccc",
-"PRIMARY_330": "#bbbbbb",
-"PRIMARY_360": "#aaaaaa",
-"PRIMARY_400": "#888888",
+"PRIMARY_100": "#FF9900",
+"PRIMARY_200": "#FF9900",
+"PRIMARY_300": "#FF9900",
+"PRIMARY_330": "#FF9900",
+"PRIMARY_360": "#FF9900",
+"PRIMARY_400": "#FF9900",
 "PRIMARY_460": "#1f1f1f",
-"PRIMARY_500": "#888888",
+"PRIMARY_500": "#FF9900",
 "PRIMARY_530": "#555555",
 "PRIMARY_600": "#1b1b1b",
 "PRIMARY_630": "#111111",
@@ -515,10 +515,10 @@
 "PRIMARY_730": "#111111",
 "PRIMARY_800": "#000000",
 "PLUM_0": "#FF9900",
-"PLUM_3": "#eeeeee",
-"PLUM_4": "#888888",
+"PLUM_3": "#FF9900",
+"PLUM_4": "#FF9900",
 "PLUM_6": "#FF9900",
-"PLUM_10": "#888888",
+"PLUM_10": "#FF9900",
 "PLUM_11": "#3a3a3a",
 "PLUM_13": "#FF9900",
 "PLUM_14": "#3a3a3a",
@@ -572,9 +572,9 @@
 "YELLOW_260": "#ffaa22",
 "YELLOW_400": "#ffaa22",
 "YELLOW_500": "#ffaa22",
-"BLUE_400": "#888888",
-"BLUE_500": "#888888",
-"WHITE_630": "#888888",
+"BLUE_400": "#FF9900",
+"BLUE_500": "#FF9900",
+"WHITE_630": "#FF9900",
 "ROLE_DEFAULT": "#1f1f1f",
 "BLACK_460": "#1f1f1f",
 "CHAT_MENTIONS_BACKGROUND_DARK": "#FF9900",
@@ -595,7 +595,7 @@
 "ic_radio_square_24px": "#FF9900",
 "ic_radio_square_checked_24px": "#FF9900",
 "ic_radio_square_checked_24px__overlay": "#111111",
-"ic_rich_presence_dark_12px": "#888888",
+"ic_rich_presence_dark_12px": "#FF9900",
 "ic_selection_checked_24px": "#FF9900",
 "ic_selection_checked_24px__overlay": "#111111",
 "ic_selection_none_24px": "#3a3a3a",
@@ -629,4 +629,4 @@
 }
 },
 "spec": 2
-}   
+}
