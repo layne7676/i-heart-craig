@@ -131,8 +131,8 @@
 "SCROLLBAR_THIN_TRACK": ["transparent", "transparent"],
 "SCROLLBAR_AUTO_THUMB": ["#ff8500", "#ff8500"],
 "SCROLLBAR_AUTO_TRACK": ["transparent", "transparent"],
-"CHAT_MENTIONS_BACKGROUND": ["#ff8500", "#ff8500"]
-"PANEL_BG": ["#000000", "#000000"]
+"CHAT_MENTIONS_BACKGROUND": ["#ff8500", "#ff8500"],
+"PANEL_BG": ["#000000", "#000000"],
 "BACKGROUND_BASE_LOWEST": ["#000000", "#000000"]
 },
 "rawColors": {
